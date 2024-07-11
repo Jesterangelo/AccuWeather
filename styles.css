@@ -6,7 +6,7 @@ body {
     margin: 10px; /* Added 'px' for margin */
     padding: 20px;
     background-color: #f0f8ff;
-    background-image: url('image.background.png');
+    background-image: url('imagebackground');
     background-size: Center; /* Adjust background size */
     background-position:center; /* Center the background image */
     background-repeat: no-repeat; /* Ensure the background doesn't repeat */
